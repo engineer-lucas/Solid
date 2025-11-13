@@ -194,7 +194,5 @@ public class ServicoDePedido {
 A aplicação dos princípios **SOLID** em Java, utilizando recursos como **Interfaces**, Classes Abstratas e Herança, resulta em um código mais **modular**, **testável** e **fácil de evoluir**. Um código que segue o SOLID é a base para o desenvolvimento de software robusto e de alta qualidade, fundamental para a criação de sistemas com **Arquitetura Limpa** (Clean Architecture).
 
 -----
-
-Gostaria de ver exemplos mais detalhados de algum princípio SOLID específico, ou como eles se relacionam com a Injeção de Dependência?
     }
 }
