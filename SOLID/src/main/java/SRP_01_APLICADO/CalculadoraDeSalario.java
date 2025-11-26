@@ -1,4 +1,4 @@
-package SRP_APLICADO;
+package SRP_01_APLICADO;
 // 2. Classe de Regra de Negócio: Responsável APENAS pelo cálculo.
 public class CalculadoraDeSalario {
     public double calcularSalarioLiquido(Funcionario funcionario) {

@@ -1,4 +1,4 @@
-package SRP_APLICADO;
+package SRP_01_APLICADO;
 // 3. Classe de Persistência: Responsável APENAS pela comunicação com o BD.
 public class RepositorioDeFuncionario {
     public void salvar(Funcionario funcionario) {

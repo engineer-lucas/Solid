@@ -1,4 +1,4 @@
-package SRP_APLICADO;
+package SRP_01_APLICADO;
 // 4. Classe de Apresentação: Responsável APENAS pela saída formatada.
 public class GeradorDeRelatorio {
     public void imprimir(Funcionario funcionario, CalculadoraDeSalario calculadora) {

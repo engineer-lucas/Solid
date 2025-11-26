@@ -1,4 +1,4 @@
-package SRP_APLICADO;
+package SRP_01_APLICADO;
 // 1. Classe Entidade: Apenas mantém o estado (dados).
 public class Funcionario {
     private String nome;

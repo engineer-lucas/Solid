@@ -1,4 +1,4 @@
-package SRP_APLICADO;
+package SRP_01_APLICADO;
 
 public class Aplicação {
     public static void main(String[] args) {

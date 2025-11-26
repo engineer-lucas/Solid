@@ -1,4 +1,4 @@
-package SRP;
+package SRP_01;
 
 class Funcionario {
     private String nome;
